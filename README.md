@@ -81,9 +81,9 @@ To develop and compare the performance of four deep learning models on the **Rea
 
 ## 👨‍💻 Authors
 
-- **Debayan Biswas** – [@deba033](#)
-- **Ishita Kundu** - [@IshitaK834](#)
-- **Pinaki Pani** - [@PRPRIESLER](#)
+- **Debayan Biswas** – [@deba033](https://github.com/deba033)
+- **Ishita Kundu** - [@IshitaK834](https://github.com/IshitaK834)
+- **Pinaki Pani** - [@PRPRIESLER](https://github.com/PRPRIESLER)
 - **Yash Bhargava** 
 
 ---
